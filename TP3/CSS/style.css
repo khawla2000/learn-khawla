@@ -1,0 +1,25 @@
+header,section,footer{
+    border : 2px solid black;
+    margin-top: 5px;
+    padding : 20px;
+    box-shadow : 10px 10px grey;
+    border-radius: 10px; 
+}
+
+header{
+    background-image: url(../images/ciel.jpg);
+    background-size : cover;
+    
+}
+
+header h1 , header button{ 
+    font-family: 'Akronim';
+}
+
+section h2, section ol{
+    font-family: 'Odibee Sans';
+}
+table, th, td {
+    border: 1px solid black;
+  }
+
