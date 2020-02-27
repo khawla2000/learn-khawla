@@ -1,0 +1,11 @@
+header,footer,section{
+    border: 2px solid gray;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 10px 10px lightcoral;
+    border-radius: 10px; 
+}
+div{
+    border:blue;
+    padding:10px;
+}

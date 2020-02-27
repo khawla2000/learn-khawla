@@ -1,25 +1,11 @@
-header,section,footer{
-    border : 2px solid black;
-    margin-top: 5px;
-    padding : 20px;
-    box-shadow : 10px 10px grey;
+header,footer,section{
+    border: 2px solid gray;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 10px 10px lightcoral;
     border-radius: 10px; 
 }
-
-header{
-    background-image: url(../images/ciel.jpg);
-    background-size : cover;
-    
+div{
+    border:blue;
+    padding:10px;
 }
-
-header h1 , header button{ 
-    font-family: 'Akronim';
-}
-
-section h2, section ol{
-    font-family: 'Odibee Sans';
-}
-table, th, td {
-    border: 1px solid black;
-  }
-

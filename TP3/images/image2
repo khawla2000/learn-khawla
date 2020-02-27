@@ -1,0 +1,983 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="iso-8859-15">
+<meta name="description" content="Kawasaki fait &eacute;voluer la Ninja 650 pour 2020 avec un nouveau look, un &eacute;cran TFT connect&eacute;, une selle confort et des pneus Dunlop">
+<meta name="keywords" content="sportive,Kawasaki,Ninja,650,nouveaut&eacute;,moto,2020">
+<meta name="dcterms.subject" content="nouveaute">
+<meta name="dcterms.date" content="2019-10-08">
+<title>Kawasaki Ninja 650</title>
+<link href="/css/main.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="application-name" content="lerepairedesmotards.com">
+<!--
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="msapplication-square70x70logo" content="/img/logo/ms8-tiny.png">
+<meta name="msapplication-square150x150logo" content="/img/logo/ms8-square.png">
+<meta name="msapplication-wide310x150logo" content="/img/logo/ms8-wide.png">
+<meta name="msapplication-square310x310logo" content="/img/logo/ms8-large.png">
+-->
+<link rel="dns-prefetch" href="//apis.google.com">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="//translate.google.com">
+<link rel="dns-prefetch" href="//translate.googleapis.com">
+<link rel="dns-prefetch" href="//assets.pinterest.com">
+<link rel="dns-prefetch" href="//logv5.xiti.com">
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/rss/actu.xml">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#144f89">
+<meta name="msapplication-TileColor" content="#ff0000">
+<meta name="theme-color" content="#ffffff">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:site_name" content="Le Repaire des Motards"> 
+<meta property="og:url" content="http://www.lerepairedesmotards.com/actualites/2019/moto-sportive-kawasaki-ninja-650.php">
+<meta property="og:title" content="Kawasaki Ninja 650">
+<meta property="og:image" content="http://www.lerepairedesmotards.com/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-statique_hd.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:image" content="http://www.lerepairedesmotards.com/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-statique_hd.jpg">
+<meta name="twitter:site" content="@lerepaire" />
+<script src="/js/defer.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script defer src="https://code.jquery.com/jquery-migrate-1.3.0.min.js"></script>
+<script defer src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+<script defer src="/js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script defer src="/js/common.js"></script>
+<script defer src="/js/modernizer.js"></script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script src="/js/selectivizr-min.js"></script>
+<![endif]--> 
+<script defer src="/js/jquery.fancybox.pack.js"></script>
+<script defer src="/js/jquery.fancybox-thumbs.min.js"></script>
+<script defer src="/js/jquery.sticky.js"></script>
+<script defer src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script defer src="https://apis.google.com/js/plusone.js"></script>
+<script defer src="https://assets.pinterest.com/js/pinit.js"></script>
+<script defer src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js"></script>
+<script>$(document).ready(function() {$("#sound-bt").click( function (){
+ $("#video-file").prop("muted", !$("#video-file").prop("muted"));
+ $("#sound-bt").toggleClass("sound");
+});});$(window).scroll(function() {
+ if ($(window).width()< 600) {
+  var o=$("#siteskin-mob"),
+  t=$("#siteskin-mob img").height(),
+  h=$(this).scrollTop();
+  o.height(8*h),document.getElementById("siteskin-mob").style.maxHeight=t+"px"
+ };
+}).scroll();</script></head>
+<body>
+<header>
+<div id="head-container">
+<div id="logo">
+<a href="/index.php"><img src="/img/logo/lerepaire.png" alt="Accueil" /></a>
+</div>
+<span class="login">
+<a href="/forum/login.php" rel="nofollow" class="signin">S'identifier</a> <span>|</span> <a href="/forum/register.php" rel="nofollow" class="signup">S'inscrire</a></span>
+<div id="google_translate_element"></div>
+<form id="search-container" action="/cherche.php" method="post"><input type="search" id="search" name="q" placeholder="Chercher" value="Chercher" required onfocus="if(value=='Chercher') this.value='';" /><button class="btn-search"></button></form>
+</div>
+<button id="menu-bt"><div><span></span></div></button>
+<a href="http://www.lerepairedesmotards.com/actualites/2019/moto-sportive-kawasaki-ninja-650.php#googtrans(fr|en)" id="mobile-flag" class="lang-select" data-lang="en"><img src="/img/icones/english.png" alt="english"></a><div id="menu">
+<div id="nav_main_background">
+<nav id="nav_main">
+ <div id="logo-sticky">
+  <a href="/index.php"><img src="/img/icones/min-logo.jpg" alt="Accueil"></a>
+ </div>
+ <ul>
+   <li>
+   <a href="/actualites/index.php">ACTUALITES</a><span></span>     
+   <div class="gradient"><!--container-->
+   <div><!--Colonne1--> 
+    <div>
+     <h4>Comp&eacute;tition piste</h4>
+     <ul>
+     <li><a href="/actualites/24h.php">24h</a></li>
+     <li><a href="/actualites/bol.php">Bol d'Or</a></li>     
+     <li><a href="/actualites/classic.php">Classic</a></li>  
+     <li><a href="/actualites/competition.php">Comp&eacute;tition</a></li> 
+     <li><a href="/actualites/endurance/index.php">Endurance</a></li>      
+     <li><a href="/actualites/motogp.php">MotoGP</a></li>
+     <li><a href="/actualites/sbk.php">Superbike</a></li>     
+     <li><a href="/actualites/wsbk.php">WSBK</a></li>
+     </ul>     
+    </div>       
+    <div>          
+     <h4>Comp&eacute;tition TT</h4>
+     <ul>
+     <li><a href="/actualites/dakar.php">Dakar</a></li> 
+     <li><a href="/actualites/enduro.php">Enduro</a></li>      
+     <li><a href="/actualites/mx.php">Motocross</a></li>    
+     <li><a href="/actualites/rallye.php">Rallyes</a></li>      
+     <li><a href="/actualites/tt.php">Tout-Terrain</a></li>   
+     </ul>
+    </div> 
+   </div><!--Colonne1-->
+   <div><!--colonne2-->       
+    <div>      
+     <h4>Culture</h4>     
+     <ul>
+     <li><a href="/actualites/crobard.php">Crobards</a></li> 
+     <li><a href="/detente/blagues.php">Blagues</a></li>         
+     <li><a href="/actualites/culture.php">Culture</a></li>      
+     <li><a href="/actualites/divers.php">Divers</a></li>      
+     <li><a href="/actualites/livre.php">Livres</a></li>   
+     <li><a href="/actualites/people.php">People</a></li>      
+     <li><a href="/actualites/tech.php">Techno</a></li>      
+     <li><a href="/actualites/video.php">Le Zap'</a></li>
+     </ul>
+    </div>
+    <div>
+     <h4>Economie</h4>
+     <ul>
+     <li><a href="/actualites/assurance.php">Assurance</a></li>
+     <li><a href="/actualites/economie.php">Economie</a></li>
+     <li><a href="/actualites/emploi.php">Emploi</a></li>         
+     <li><a href="/actualites/internet.php">Internet</a></li>      
+     <li><a href="/actualites/international.php">International</a></li>
+     <li><a href="/actualites/loi.php">L&eacute;gislation</a></li>       
+     <li><a href="/actualites/promo.php">Promos</a></li>   
+     <li><a href="/actualites/pub.php">Publicit&eacute;</a></li>      
+     <li><a href="/actualites/securite.php">S&eacute;curit&eacute; </a></li>
+     </ul>
+    </div>
+    <div>
+     <h4>Diaporamas</h4>
+     <ul>
+     <li><a href="/actualites/diaporamas.php">Les plus belles photos</a></li> 
+ 	 </ul>
+    </div>
+    <div>
+     <h4>Chroniques</h4>
+     <ul>
+     <li><a href="/chroniques/index.php">Les Kroniks de Koud'pied o'Kick</a></li> 
+ 	 </ul>
+    </div>
+    <div>
+     <h4>Z'humeurs</h4>
+     <ul>
+     <li><a href="/humeurs/index.php">de la R&eacute;dac'</a></li>    
+     </ul>
+    </div>
+   </div><!--colonne2-->
+   <div><!--colonne3-->
+    <div>
+     <h4>Moto</h4>
+     <ul>
+     <li><a href="/actualites/essais.php">Essais concessions</a></li>
+     <li><a href="/actualites/nouveaute.php">Nouveaut&eacute;s</a></li>
+     <li><a href="/actualites/prepa.php">Pr&eacute;parations</a></li>     
+     <li><a href="/actualites/rappel.php">Rappel</a></li>      
+     </ul>
+    </div>
+    <div>
+     <h4>Equipement</h4>
+     <ul>
+     <li><a href="/actualites/conso.php">Conso et &eacute;quipement</a></li>
+     <li><a href="/actualites/hightech.php">High-Tech</a></li> 
+     <li><a href="/actualites/lifestyle.php">Life Style</a></li>         
+ 	 </ul>
+    </div>
+    <div>
+     <h4>Voyage</h4>
+     <ul>
+     <li><a href="/actualites/voyage.php">L'actu</a></li>      
+     <li><a href="/voyages/index.php">Tous les voyages</a></li> 
+     <li><a href="/roadtrips/index.php">Tous les roadtrips</a></li>     
+     <li><a href="/roadbook/index.php">Tous les roadbooks</a></li>     
+ 	 </ul>
+   </div>
+  </div><!--colonne3-->
+  <div><!--colonne4-->
+   <div>
+    <h4>Agenda</h4>
+    <ul>
+	<li><a href="/actualites/salon.php">Salons</a></li> 
+    <li><a href="/actualites/agenda.php">Ev&eacute;nements &agrave; venir</a></li>
+    <li><a href="/actualites/evenement.php">Ev&eacute;nements</a></li>  
+    <li><a href="/actualites/stage.php">Stages et roulages</a></li> 
+    <li><a href="/actualites/ffmc.php">FFMC</a></li>      
+    <li><a href="/agenda/index.php">Toutes les dates</a></li>   
+ 	</ul>    
+   </div>
+   <div>
+    <h4>Reportages</h4>
+    <ul>
+    <li><a href="/portraits/index.php">Portraits</a></li>     
+    <li><a href="/actualites/reportage.php">Reportages</a></li>            
+    <li><a href="/reportages/index.php">Reportages majeurs</a></li>
+    <li><a href="/actualites/recit.php">R&eacute;cits</a></li>        
+ 	</ul>    
+   </div>
+   <div>
+    <h4>Jeux</h4>
+    <ul>
+    <li><a href="/jeux/index.php">Gagner des places</a></li> 
+    <li><a href="/actualites/jeu.php">Les jeux</a></li>      
+ 	</ul>
+   </div>      
+  </div><!--colonne4-->
+ </div><!-- /container -->
+</li>
+<!--ESSAIS-->
+<li>
+ <a href="/essais/index.php">ESSAIS</a><span></span>
+ <div class="gradient"> <!--Container-->
+  <div><!--colonne 1-->
+   <div>
+    <h4>Essais par marque</h4>
+   <ul>
+   <li><a href="/essais/essais-aprilia.php">Aprilia</a></li>
+   <li><a href="/essais/essais-avinton.php">Avinton</a></li>
+   <li><a href="/essais/essais-benelli.php">Benelli</a></li>   
+   <li><a href="/essais/essais-buell.php">Buell</a></li>
+   <li><a href="/essais/essais-bmw.php">BMW</a></li>
+   <li><a href="/essais/essais-brough-superior.php">Brough Superior</a></li>   
+   <li><a href="/essais/essais-can-am.php">Can-Am</a></li>
+   <li><a href="/essais/essais-ducati.php">Ducati</a></li>
+   <li><a href="/essais/essais-harley-davidson.php">Harley-Davidson</a></li>
+   <li><a href="/essais/essais-fantic.php">Fantic</a></li>
+   <li><a href="/essais/essais-honda.php">Honda</a></li>
+   <li><a href="/essais/essais-husqvarna.php">Husqvarna</a></li>
+   <li><a href="/essais/essais-indian.php">Indian</a></li>   
+   <li><a href="/essais/essais-kawasaki.php">Kawasaki</a></li>
+   <li><a href="/essais/essais-ktm.php">KTM</a></li>
+   <li><a href="/essais/essais-kymco.php">Kymco</a></li>
+   <li><a href="/essais/essais-lambretta.php">Lambretta</a></li>
+   <li><a href="/essais/essais-moto-guzzi.php">Moto Guzzi</a></li>
+   <li><a href="/essais/essais-moto-morini.php">Moto Morini</a></li>   
+   <li><a href="/essais/essais-mv-agusta.php">MV Agusta</a></li>
+   <li><a href="/essais/essais-peugeot.php">Peugeot</a></li>   
+   <li><a href="/essais/essais-piaggio.php">Piaggio</a></li>      
+   <li><a href="/essais/essais-rieju.php">Rieju</a></li>         
+   <li><a href="/essais/essais-royal-enfield.php">Royal Enfield</a></li>
+   <li><a href="/essais/essais-suzuki.php">Suzuki</a></li>
+   <li><a href="/essais/essais-sym.php">Sym</a></li>   
+   <li><a href="/essais/essais-triumph.php">Triumph</a></li>
+   <li><a href="/essais/essais-vespa.php">Vespa</a></li>
+   <li><a href="/essais/essais-victory.php">Victory</a></li>
+   <li><a href="/essais/essais-yamaha.php">Yamaha</a></li>
+   <li><a href="/essais/essais-zero-motorcycles.php">Z&eacute;ro</a></li>  
+   <li><a href="/essais/essais-zontes.php">Zontes</a></li>     
+  </ul>
+ </div>
+ </div><!--colonne 1-->
+     
+ <div><!--colonne 2-->
+ <div>
+   <h4>Essais par type</h4>
+   <ul>
+   <li><a href="/essais/motos/index.php">Essais motos</a></li>
+   <li><a href="/essais/scooters/index.php">Essais scooters</a></li>
+   <li><a href="/essais/comparo/index.php">Essais comparos</a></li>
+   <li><a href="/dossiers/motos/liste-moto-scooter-125-permis-a1-b.php">Tous les A1 et B</a></li>   
+   <li><a href="/essais/casques/index.php">Essais casques</a></li>
+   <li><a href="/essais/pneus/index.php">Essais pneus</a></li>
+   <li><a href="/essais/accessoires/index.php">Essais accessoires</a></li>         
+   <li><a href="/essais/equipements/index.php">Essais &eacute;quipements</a></li>   
+   </ul>
+     </div>
+     <div>
+   <h4>Essais A2</h4>
+   <ul>
+   <li><a href="/dossiers/liste-moto-permis-a2.php">Tous les A2</a></li>   
+   <li><a href="/dossiers/motos/liste-customs-permis-a2.php">Customs</a></li>
+   <li><a href="/dossiers/motos/liste-motos-neo-retro-permis-a2.php">N&eacute;o-r&eacute;tro</a></li>
+   <li><a href="/dossiers/motos/liste-roadsters-permis-a2.php">Roadsters</a></li>
+   <li><a href="/dossiers/motos/liste-routieres-permis-a2.php">Routi&egrave;res</a></li>  
+   <li><a href="/dossiers/motos/liste-sportives-permis-a2.php">Sportives</a></li>      
+   <li><a href="/dossiers/motos/liste-trails-permis-a2.php">Trails</a></li>         
+   </ul>
+   </div>
+   </div><!--colonne 2-->
+     
+   <div><!--colonne 3-->
+   <div>
+   <h4>Essais par cat&eacute;gorie</h4>
+   <ul>
+   <li><a href="/essais/125/index.php">125</a></li>       
+   <li><a href="/essais/3-roues/index.php">3 roues</a></li>          
+   <li><a href="/essais/essais-customs.php">Customs</a></li>
+   <li><a href="/essais/essais-collections.php">Collection</a></li>
+   <li><a href="/essais/electrique/index.php">Electrique</a></li>    
+   <li><a href="/essais/essais-roadsters.php">Roadsters</a></li>
+   <li><a href="/essais/essais-routieres.php">Routi&egrave;res</a></li>
+   <li><a href="/essais/essais-scooters.php">Scooters</a></li>
+   <li><a href="/essais/sidecars/index.php">Side-cars</a></li>    
+   <li><a href="/essais/essais-sportives.php">Sportives</a></li>
+   <li><a href="/essais/essais-supermotards.php">Supermotards</a></li>
+   <li><a href="/essais/essais-trails.php">Trails</a></li>
+   <li><a href="/essais/trikes/index.php">Trikes</a></li>
+   </ul>
+ </div>
+ </div><!--colonne 3-->
+     
+ <div><!--colonne 4-->
+ <div>
+   <h4>Avis Motos</h4>
+   <ul>
+    <li><a href="/guides/avis-motos.php">Motos : plus de 1.300 mod&egrave;les</a></li>
+   </ul>
+     </div>
+     <div>
+   <h4>Avis Pneus</h4>
+   <ul>
+    <li><a href="/guides/avis-pneus.php">Pneus : pr&egrave;s de 200 mod&egrave;les</a></li>
+   </ul>
+     </div>
+     <div>
+   <h4>Avis &eacute;quipement</h4>
+   <ul>
+    <li><a href="/guides/avis-equipements.php">Equipements motards</a></li>
+    <li><a href="/guides/avis-equipement-blousons.php">Blousons</a></li>
+    <li><a href="/guides/avis-casques.php">Casques</a></li>
+    <li><a href="/guides/avis-equipement-gants.php">Gants</a></li>
+    <li><a href="/guides/avis-equipement-bottes.php">Bottes</a></li>
+    <li><a href="/guides/avis-equipement-combinaisons.php">Combinaisons</a></li>                
+   </ul>
+ </div>
+ </div><!--colonne 4-->
+
+ </div><!-- /container -->
+</li>
+<!--DOSSIERS-->
+<li>
+ <a href="/dossiers/index.php">DOSSIERS</a><span></span>
+ <div class="gradient"><!--container-->
+ 
+ <div><!--colonne 1-->
+ <div>
+ <h4>Dossiers clefs</h4>
+ <ul>
+   <li><a href="/guides/circuits/index.php">Circuits</a></li> 
+   <li><a href="/dossiers/constructeurs/index.php">Constructeurs</a></li> 
+   <li><a href="/dossiers/definitions/index.php">D&eacute;finitions</a></li>   
+   <li><a href="/dossiers/evenements/index.php">Ev&eacute;nements</a></li>    
+   <li><a href="/dossiers/films/index.php">Films</a></li>    
+   <li><a href="/dossiers/jeux/index.php">Jeux vid&eacute;o</a></li>      
+   <li><a href="/dossiers/livres/index.php">Livres</a></li>       
+   <li><a href="/dossiers/marques/index.php">Marques</a></li>    
+   <li><a href="/dossiers/motos/index.php">Motos</a></li>
+   <li><a href="/dossiers/pilotes/index.php">Pilotes</a></li> 
+ </ul>
+     </div>
+     <div>
+  <h4>Juridique</h4>
+  <ul>
+   <li><a href="/droit/index.php">Droit</a></li>
+   <li><a href="/assurance/index.php">Assurance</a></li>
+  </ul>
+     </div>
+     <div>
+  <h4>Equipement</h4>
+  <ul>
+    <li><a href="/dossiers/airbag-moto-protection-technologie-homologation.php">Airbags</a></li>       
+    <li><a href="/dossiers/casques.php">Casques</a></li>
+    <li><a href="/dossiers/choisir-sa-dorsale.php">Dorsales</a></li>    
+      <li><a href="/dossiers/lexique-materiaux-technologies-equipement-pilote.php">Technologies</a></li>
+  </ul>
+ </div>
+ </div><!--colonne 1-->
+ 
+<div><!--colonne 2-->
+<div>
+  <h4>Occasion</h4>
+  <ul>
+   <li><a href="/guides/cote-moto-occasion.php">La cote occasion sur 12 ans</a></li>
+   <li><a href="/dossiers/cote-argus-estimation-vente-moto-occasion.php">Estimer la valeur de sa moto</a></li>
+  </ul>
+    </div>
+    <div>
+  <h4>Permis moto</h4>
+  <ul>
+    <li><a href="/conseils/moto-ecole.php">Choisir sa moto-&eacute;cole</a></li>
+    <li><a href="/dossiers/permis-moto-fiches-memo.php">Les fiches (synth&egrave;se)</a></li>
+    <li><a href="/dossiers/permis-moto-fiches.php">Les fiches (compl&egrave;tes)</a></li>
+    <li><a href="/dossiers/recuperation-points-permis.php">R&eacute;cup&eacute;rer ses points du permis</a></li>   
+    <li><a href="/reportages/permis-moto/index.php">La saga du permis</a></li>       
+  </ul>
+    </div>
+    <div>
+  <h4>Rouler</h4>
+  <ul>
+    <li><a href="/conseils/index.php">Conseils</a></li>
+    <li><a href="/dossiers/debuter-moto.php">D&eacute;buter en moto</a></li>
+    <li><a href="/dossiers/stages.php">Les stages post-permis</a></li>
+    <li><a href="/dossiers/auto-moto-train-sncf.php">Moto-train</a></li>
+      <li><a href="/dossiers/reglementation-code-de-la-route-monde.php">Code de la route</a></li>
+  </ul>  
+ </div>
+ </div><!--colonne 2-->
+     
+     
+ <div><!--colonne 3-->
+ <div>
+ <h4>Guides</h4>
+  <ul>
+	<li><a href="/guides/annuaire.php">Liens et sites</a></li>
+	<li><a href="/guides/annuaire-adresses.php">Adresses</a></li>  
+    <li><a href="/guides/annuaire-adresses-casse.php">Casses</a></li>
+    <li><a href="/guides/annuaire-adresses-concessionnaire.php">Concessionnaires</a></li>
+    <li><a href="/guides/circuits.php">Circuits</a></li>
+    <li><a href="/guides/mc.php">Clubs</a> </li>
+	<li><a href="/guides/ecoles.php">Ecoles de pilotage</a></li>
+    <li><a href="/guides/locations.php">Locations</a></li>
+    <li><a href="/guides/annuaire-adresses-moto-ecole.php">Moto-&eacute;coles</a></li>
+    <li><a href="/guides/musees.php">Mus&eacute;es</a></li>     
+  </ul>
+     </div>
+     <div>
+  <h4>Statistiques</h4>
+  <ul>
+    <li><a href="/dossiers/accident.php">Accidents</a></li>
+    <li><a href="/dossiers/vol-deux-roues.php">Vol</a></li>
+  </ul>
+ </div>
+ </div><!--colonne 3-->
+     
+ <div><!--colonne 4-->
+ <div>
+  <h4>Voyages</h4>
+  <ul>
+  <li><a href="/voyages/index.php">Tous les voyages</a></li>
+  <li><a href="/roadtrips/index.php">Roadtrips</a></li>  
+  <li><a href="/roadbook/index.php">Roadbooks</a></li>    
+  <li><a href="/voyages/choisir-une-agence-moto.php">Choisir son voyagiste</a></li>
+  </ul>
+     </div>
+     <div>
+ <h4>Technique</h4>
+  <ul>
+    <li><a href="/technique/index.php">Technique</a></li>  
+    <li><a href="/technique/mecanique/index.php">M&eacute;canique</a></li>
+    <li><a href="/technique/pratique/index.php">Tuto entretien</a></li>    
+    <li><a href="/technique/fiches/index.php">Fiches</a></li> 
+    <li><a href="/technique/fiches/modeles-motos.php">Comparo fiches techniques</a></li>     
+    <li><a href="/technique/lexique/index.php">Lexique</a></li>            
+  </ul>
+     </div>
+     <div>
+ <h4>Pneus</h4>
+   <ul>
+    <li><a href="/pneus/index.php">Tout sur les pneus</a></li>
+   </ul>  
+ </div>
+ </div><!--colonne 4-->
+ 
+ </div><!-- /container -->
+</li>
+     
+     
+<!--Services-->
+<li>
+ <a href="/services/index.php">SERVICES</a><span></span>
+ <div class="gradient"><!--container-->
+
+ <div><!--colonne 1-->
+ <div>
+ <h4>Petites annonces</h4>
+   <ul>
+   <li><a href="/annonces/index.php">Les petites annonces motos</a></li> 
+      <li><a href="/annonces/recherche.php">Chercher une moto</a></li> 
+   <li><a href="/annonces/pa_form.php">D&eacute;poser une annonce</a></li>
+   <li><a href="/annonces/modif.php">Modifier une annonce</a></li>   
+   <li><a href="/annonces/alerte_form.php">Poster une alerte</a></li>      
+   <li><a href="/annonces/alertes.php">Modifier une alerte</a></li>
+        
+   <li><a href="/guides/cote-moto-occasion.php">Cote occasion sur 12 ans</a></li>
+   <li><a href="/conseils/occasion.php">Conseils</a></li>
+   <li><a href="/conseils/negociations.php">N&eacute;gocier</a></li>
+   <li><a href="/assurance/arnaques.php">Arnaques</a></li>  
+   </ul>
+     </div>
+     <div>
+   <h4>Co-Motorage</h4>
+  <ul>
+	<li><a href="/motostop/index.php">Voir les propositions</a></li>
+        <li><a href="/motostop/motostop_form.php?type=R">D&eacute;poser une demande</a></li>  
+    <li><a href="/motostop/motostop_form.php?type=P">Proposer une selle</a></li>      
+   	  </ul>
+ </div>
+ </div><!--colonne 1-->
+     
+ <div><!--colonne 2-->
+ <div>
+ <h4>PA par marques</h4>
+   <ul>
+   <li><a href="/annonces/occasions-moto-aprilia.php">Aprilia</a></li> 
+   <li><a href="/annonces/occasions-moto-bmw.php">BMW</a></li> 
+   <li><a href="/annonces/occasions-moto-ducati.php">Ducati</a></li> 
+   <li><a href="/annonces/occasions-moto-honda.php">Honda</a></li> 
+   <li><a href="/annonces/occasions-moto-harley.php">Harley-Davidson</a></li>    
+   <li><a href="/annonces/occasions-moto-husqvarna.php">Husqvarna</a></li> 
+   <li><a href="/annonces/occasions-moto-kawasaki.php">Kawasaki</a></li> 
+   <li><a href="/annonces/occasions-moto-ktm.php">KTM</a></li> 
+   <li><a href="/annonces/occasions-moto-suzuki.php">Suzuki</a></li> 
+   <li><a href="/annonces/occasions-moto-triumph.php">Triumph</a></li> 
+   <li><a href="/annonces/occasions-moto-yamaha.php">Yamaha</a></li>                
+   </ul>
+  </div>
+ <div>
+ <h4>D&eacute;claration</h4>
+   <ul>
+   <li><a href="/services/recherche.php">Moto vol&eacute;e</a></li>
+   </ul>
+</div>
+</div><!--colonne 2-->
+     
+<div><!--colonne 3-->
+ <div>
+  <h4>Jeux</h4>
+   <ul>
+    <li><a href="/jeux/index.php">Gagner des places pour les grands &eacute;v&eacute;nements motos</a></li>
+   </ul>
+    </div>
+    <div>
+  <h4>Paris en ligne</h4>
+  <ul>
+    <li><a href="/paris/parier.php">Parier</a></li>  
+	<li><a href="/paris/pronostics.php">Voir les pronostics</a></li>
+  </ul>
+    </div>
+    <div>
+ <h4>Piste et chronos</h4>
+  <ul>
+	<li><a href="/chronos/index.php">Chronos</a></li>
+  </ul>
+    </div>
+    <div>
+  <h4>Gestion de budget</h4>
+  <ul>
+    <li><a href="/budget/form.php">Ajouter une d&eacute;pense</a></li>
+	<li><a href="/budget/comptes.php">Comptes</a></li>
+    <li><a href="/budget/statistiques.php">Statistiques</a></li>  
+    <li><a href="/budget/index.php">Budget</a></li>      
+  </ul>
+ </div>
+ </div><!--colonne 3-->     
+ <div><!--colonne 4-->
+ <div>
+  <h4>Agenda</h4>
+    <ul>
+    <li><a href="/agenda/index.php">Toutes les dates</a></li> 
+    <li><a href="/agenda/index.php">Balades</a></li>     
+    <li><a href="/agenda/bourses.php">Bourses</a></li>         
+    <li><a href="/agenda/courses.php">Courses</a></li>         
+    <li><a href="/agenda/stages.php">Stages</a></li>             
+ 	</ul>
+ </div>
+ <div>
+  <h4>Roadbooks</h4>
+   <ul>
+    <li><a href="/roadbook/index.php">Cr&eacute;er son roadbook</a></li>    
+   </ul>    
+ </div>
+  <div>
+  <h4>Assurance</h4>
+   <ul>
+    <li><a href="/annonceurs/www/delivery/click.php?bannerid=858" target="_blank" rel="nofollow">Calculez votre tarif d'assurance</a></li>        
+    <li><a href="/annonceurs/www/delivery/click.php?bannerid=74" target="_blank" rel="nofollow">Comparer les assurances avec Assurland</a></li>  
+   </ul>
+ </div>
+  </div><!--colonne 4-->
+</div><!--/container -->
+   
+</li>     
+<!--FORUMS-->
+<li>
+ <a href="/forum/index.php">FORUMS</a><span></span>
+ <div class="gradient"><!--container-->
+  <div><!--colonne 1-->
+   <div>
+    <h4>Experts</h4>
+     <ul>
+      <li><a href="/forum/list.php?3">Motos &amp; Motards</a></li>
+      <li><a href="/forum/list.php?2">Technique</a></li> 
+      <li><a href="/forum/list.php?6">Juridique</a></li>       
+     </ul>
+   </div>
+   <div>
+    <h4>Infos</h4> 
+     <ul>
+      <li><a href="/forum/list.php?9">MotoBrev</a></li>
+     </ul>
+   </div>
+   <div>
+    <h4>Evasion</h4>
+     <ul>
+      <li><a href="/forum/list.php?1">Balades</a></li>          
+      <li><a href="/forum/list.php?17">Roadbooks</a></li>                   
+     </ul>
+   </div> 
+  </div><!--/colonne 1-->  
+  <div><!--colonne 2-->
+   <div>
+    <h4>Essais</h4>
+     <ul>
+      <li><a href="/forum/list.php?8">Motos</a></li>          
+      <li><a href="/forum/list.php?15">Equipements</a></li>          
+     </ul>
+   </div>
+   <div>
+    <h4>Annonces</h4>
+     <ul>
+      <li><a href="/forum/list.php?19">Achats</a></li>                            
+      <li><a href="/forum/list.php?20">Ventes</a></li>                            
+      <li><a href="/forum/list.php?12">Entraide</a></li> 
+      <li><a href="/forum/list.php?29">Pro</a></li>                                          
+     </ul>
+   </div> 
+  </div> <!--/colonne 2-->  
+  <div><!--colonne 3-->
+   <div>
+    <h4>Parking</h4>
+     <ul>
+      <li><a href="/forum/list.php?18">Pr&eacute;sentations</a></li> 
+      <li><a href="/forum/list.php?4">Taquin</a></li>                                     
+      <li><a href="/forum/list.php?13">Best Of</a></li>                                     
+     </ul>
+   </div>
+   <div>
+    <h4>Le Chat</h4>
+     <ul>
+      <li><a href="/chat/index.php">Chat</a></li>
+     </ul>   
+   </div>
+  </div><!--/colonne 3-->
+  <div><!--colonne 4-->
+   <div>
+    <h4>Infos</h4>
+     <ul>
+      <li><a href="/forum/aide.php">Aide</a></li>
+      <li><a href="/forum/charte.php">Charte</a></li>
+      <li><a href="/forum/moderateurs.php">Modos</a></li>
+      <li><a href="/forum/emoticons.php">Smileys</a></li>
+      <li><a href="/forum/troll.php">Troll</a></li>
+      <li><a href="/detente/quizz.php">Quizz</a></li>                                       
+     </ul>
+   </div>  
+  </div><!--/colonne 4-->
+  <div><!--colonne 5-->
+   <div>
+    <h4>Mon Repaire</h4>
+     <ul>
+            <li><a href="/forum/login.php">S'identifier</a></li>
+      <li><a href="/forum/register.php">S'inscrire</a></li>
+           </ul>
+   </div>   
+  </div><!--/colonne 5-->
+  <div><!--colonne 6-->
+   <div>
+    <h4>Outils</h4>
+     <ul>
+	       </ul>
+   </div> 
+  </div><!--colonne 6-->
+  </div><!-- /container -->
+</li>
+
+<!--TV-->
+<li>
+ <a href="/tv/index.php">TV</a><span></span>
+ <div class="gradient"><!--container-->
+ <div><!--colonne 1-->
+  <div>
+   <h4>Vid&eacute;os</h4>
+    <ul>    
+     <li><a href="/tv/essais.php">Essais</a></li>
+     <li><a href="/tv/evenements.php">Ev&eacute;nements</a></li>
+     <li><a href="/tv/reportages.php">Reportages</a></li>
+     <li><a href="/tv/roadtrips.php">Roadtrips</a></li>  
+     <li><a href="/tv/salons.php">Salons</a></li>
+     <li><a href="/tv/tutos.php">Tutos</a></li>        
+     <li><a href="/tv/voyages.php">Voyages</a></li>        
+    </ul>
+  </div>
+ </div><!--/colonne 1--> 
+ <div class="tv"><!--colonne 2-->
+  <ul>   
+	<li><a href="/tv/balade-moto-hivernale-winter-ride-bmw.php"><img src="/img/home/2020/videos-balade-moto-winter-ride-bmw-kesako.jpg" alt="Balade moto Winter Ride BMW : kesako ?"><h5>Balade moto Winter Ride BMW : kesako ?</h5></a></li><li><a href="/tv/essai-moto-ktm-1290-super-duke-r.php"><img src="/img/home/2020/videos-moto-ktm-1290-super-duke-r.jpg" alt="moto KTM 1290 Super Duke R"><h5>moto KTM 1290 Super Duke R</h5></a></li><li><a href="/tv/essai-moto-kawasaki-ninja-1000-sx.php"><img src="/img/home/2020/videos-moto-kawasaki-ninja-1000-sx.jpg" alt="moto Kawasaki Ninja 1000 SX"><h5>moto Kawasaki Ninja 1000 SX</h5></a></li>  </ul>
+ </div><!--/colonne 2-->
+</div><!-- /container -->
+</li>  
+</ul>
+</nav></div>
+
+<div class="under_menu_container">
+<div id="pub">
+<a href='http://www.lerepairedesmotards.com/annonceurs/www/delivery/click.php?oaparams=1&amp;bannerid=2022&amp;zoneid=1&amp;cb=3d08099446&amp;oadest=https%3A%2F%2Ft3.fr%2Fperse%2F' target='_blank' rel='nofollow'><img src='/img/pub/t3-perse-1000.gif' width='1000' height='100' alt='' title='' border='0' /></a><div id='beacon_3d08099446' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://www.lerepairedesmotards.com/annonceurs/www/delivery/lg.php?bannerid=2022&amp;campaignid=257&amp;zoneid=1&amp;loc=http%3A%2F%2Fwww.lerepairedesmotards.com%2Factualites%2F2019%2Fmoto-sportive-kawasaki-ninja-650.php&amp;referer=https%3A%2F%2Fwww.google.com%2F&amp;cb=3d08099446' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div></div>
+<!--..........SUB MENU..........-->
+<div id="submenu">
+ <span><a href="/actualites/index.php">Actualit&eacute;s</a></span>
+ <span id="all-subcat">...</span>
+  <ul>
+  <li><a href="/actualites/clef.php">L'essentiel</a></li>
+    
+  <li><a href="/actualites/commentes.php">Les + commentés</a></li>                      
+  <li><a href="/actualites/2020/index.php">2020</a></li>
+  <li><a href="/actualites/2019/index.php">2019</a></li>
+  <li><a href="/actualites/2018/index.php">2018</a></li> 
+  <li><a href="/actualites/rss.php">Flux RSS</a></li>        
+  <li><a href="/actualites/trash.php">Ma poubelle</a></li>
+     <li><a href="/actualites/nouveaute.php">Nouveautés motos : </a><a href="/actualites/nouveautes-motos-aprilia.php">Aprilia</a></li>
+   <li><a href="/actualites/nouveautes-motos-bmw.php">BMW</a></li>
+   <li><a href="/actualites/nouveautes-motos-ducati.php">Ducati</a></li>
+   <li><a href="/actualites/nouveautes-motos-harley-davidson.php">Harley-Davidson</a></li>
+   <li><a href="/actualites/nouveautes-motos-honda.php">Honda</a></li>
+   <li><a href="/actualites/nouveautes-motos-husqvarna.php">Husqvarna</a></li>
+   <li><a href="/actualites/nouveautes-motos-indian.php">Indian</a></li>   
+   <li><a href="/actualites/nouveautes-motos-kawasaki.php">Kawasaki</a></li>
+   <li><a href="/actualites/nouveautes-motos-ktm.php">KTM</a></li>
+   <li><a href="/actualites/nouveautes-motos-kymco.php">Kymco</a></li>
+   <li><a href="/actualites/nouveautes-motos-lambretta.php">Lambretta</a></li>
+   <li><a href="/actualites/nouveautes-motos-moto-guzzi.php">Moto Guzzi</a></li>
+   <li><a href="/actualites/nouveautes-motos-moto-morini.php">Moto Morini</a></li>   
+   <li><a href="/actualites/nouveautes-motos-mv-agusta.php">MV Agusta</a></li>
+   <li><a href="/actualites/nouveautes-motos-peugeot.php">Peugeot</a></li>   
+   <li><a href="/actualites/nouveautes-motos-piaggio.php">Piaggio</a></li>      
+   <li><a href="/actualites/nouveautes-motos-royal-enfield.php">Royal Enfield</a></li>
+   <li><a href="/actualites/nouveautes-motos-suzuki.php">Suzuki</a></li>
+   <li><a href="/actualites/nouveautes-motos-triumph.php">Triumph</a></li>
+   <li><a href="/actualites/nouveautes-motos-yamaha.php">Yamaha</a></li>
+   <li><a href="/actualites/nouveautes-motos-zero-motorcycles.php">Zéro</a></li>  
+                          
+  </ul>
+</div></div>
+</div>
+<div class="under_menu_container">
+<div id="topbarhome">
+  <div id="breadcrumb"><a href="/index.php"><img src="/img/icones/home.png" alt="Accueil"></a> <a href="/actualites/index.php">Actualités</a> <a href="/actualites/nouveaute.php">Nouveaut&eacute;</a> <a href="/actualites/2019/index.php">2019</a> Kawasaki Ninja 650</div>
+  <div id="home-social">
+  <a href="/rss/actu.xml"><img src="/img/icones/rs.png" alt="Fil RSS"></a>
+  <a href="https://www.facebook.com/LeRepairedesMotards" target="_blank" rel="nofollow"><img src="/img/icones/fb.png" alt="Facebook"></a>
+  <a href="https://twitter.com/lerepaire" target="_blank" rel="nofollow"><img src="/img/icones/tw.png" alt="Twitter"></a>
+  <a href="https://instagram.com/lerepairedesmotards" target="_blank" rel="nofollow"><img src="/img/icones/insta.png" alt="Instagram"></a>
+  <a href="https://www.pinterest.com/Lerepaire/" target="_blank" rel="nofollow"><img src="/img/icones/pint.png" alt="Pinterest"></a>
+  <a href="https://www.youtube.com/user/lerepairedesmotards" target="_blank" rel="nofollow"><img src="/img/icones/yt.png" alt="Youtube" title="Chaine Youtube"></a>
+  <a href="https://www.youtube.com/channel/UCJz4Z_uSXKEy1XrazWDtU7Q" target="_blank" rel="nofollow"><img src="/img/icones/ytv.png" alt="Voyage" title="Chaine Voyage au bout du jour"></a>  
+ </div>
+</div>
+</div>
+</header>
+<div id="body_container" >
+<div id="maincontent"><div class="share"><p><b class="read-time">1 min</b> &nbsp;|&nbsp; par Alexis Ferrant &nbsp;|&nbsp; <time datetime='2019-10-08 08:52:00'>08.10.2019 à 08:52</time></p><span><a href="#comment" class="underline"><img src="/img/icones/ico-reagir.png" alt="commentaires" /> R&eacute;agir</a></span>
+
+<script>$( function() { $( "#reserved" ).dialog({autoOpen: false,dialogClass:"reserved-ui"}); $( "#fav" ).on( "click", function() {$( "#reserved" ).dialog( "open" );}); } );</script><div id='reserved' title='Favoris'>Vous devez être connecté pour mettre cet article en favoris ou supprimer cet article</div><span id='fav'><img src='/img/icones/ico-favoris.png' alt='favoris' title='Classer en favoris' /> <img src='/img/icones/ico-corbeille.png' alt='supprimer' title='Supprimer' /></span> 
+
+<!--<a href="javascript:window.location=(gog)"><img src="/img/icones/ico-eng.gif" alt="traduire cet article" width="30" height="19" /></a>-->
+<span>
+<a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.lerepairedesmotards.com%2Factualites%2F2019%2Fmoto-sportive-kawasaki-ninja-650.php" target="_blank" rel="nofollow"><img src="/img/icones/ico-fb.png" alt="Partager sur Facebook" title="Partager sur Facebook" /></a>
+<a href="https://twitter.com/home?status=RT%20@LeRepaire%20Kawasaki Ninja 650 http://www.lerepaire.com/actualites/2019/moto-sportive-kawasaki-ninja-650.php" target="_blank" rel="nofollow"><img src="/img/icones/ico-tw.png" alt="Partager sur Twitter" title="Partager sur Twitter" /></a>
+<a href="http://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.lerepairedesmotards.com%2Factualites%2F2019%2Fmoto-sportive-kawasaki-ninja-650.php&amp;media=http://www.lerepairedesmotards.com/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-statique_hd.jpg&amp;description=Kawasaki Ninja 650 " data-pin-do="buttonBookmark" data-pin-shape="round" data-pin-config="none" target="_blank" rel="nofollow"></a>
+<a href="javascript:mailThisUrl()"><img src="/img/icones/ico-mail.png" alt="Partager cet article par email" title="Partager cet article par email"/></a>
+</span>
+</div><article>      <h1>Nouveaut&eacute; moto : Kawasaki Ninja 650</h1>
+<h2>Nouveau look, &eacute;cran TFT connect&eacute;, selle confort et pneus Dunlop pour 2020</h2>
+<h3>Motorisation, partie cycle et &eacute;lectronique identiques au mod&egrave;le 2019</h3>
+<p><a href="/dossiers/constructeurs/kawasaki.php"><a href="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-statique_hd.jpg" class="gallery" data-group="gallery" title="Nouveauté moto : Kawasaki Ninja 650"><img class="border right" title="Nouveaut&eacute; moto : Kawasaki Ninja 650" src="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-statique.jpg" alt="Nouveaut&eacute; moto : Kawasaki Ninja 650" /></a>Kawasaki</a> fait &eacute;voluer sa gamme de moyenne cylindr&eacute;e et commence par <a href="/essais/motos/kawasaki-ninja-650.php">la sportive Ninja 650</a> qui s'offre pour 2020 un nouveau look ainsi que quelques nouveaut&eacute;s au niveau de l'&eacute;quipement. Evolution de <a href="/essais/motos/kawasaki-er6f-2012.php">l'ER-6f</a> d&eacute;barqu&eacute;e en France au printemps 2017, la <strong>Ninja 650</strong> h&eacute;rite ainsi de sa premi&egrave;re v&eacute;ritable &eacute;volution en vue du mill&eacute;sime 2020.</p>
+<p>Tout d'abord, la 650 adopte un nouveau look avec son design revu pour se mettre en accord avec le reste de la gamme Ninja et plus particuli&egrave;rement <a href="/essais/motos/kawasaki-zx-6r-performance.php">la ZX-6R</a> et la <a href="/essais/motos/kawasaki-ninja-400.php">Ninja 400</a> avec ses lignes tendues et ses phares rectangulaires &agrave; LED.</p>
+<figure><a href="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-2020_hd.jpg" class="gallery" data-group="gallery" title="La Kawasaki Ninja 650 2020"><img class="border" title="La Kawasaki Ninja 650 2020" src="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-2020.jpg" alt="La Kawasaki Ninja 650 2020" /></a><figcaption>La Kawasaki Ninja 650 2020</figcaption></figure>
+<figure><a href="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-2017-2019_hd.jpg" class="gallery" data-group="gallery" title="La Kawasaki Ninja 650 2017-2019"><img class="border" title="La Kawasaki Ninja 650 2017-2019" src="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-2017-2019.jpg" alt="La Kawasaki Ninja 650 2017-2019" /></a><figcaption>La Kawasaki Ninja 650 2017-2019</figcaption></figure>
+<p>Le confort a &eacute;galement &eacute;t&eacute; revu &agrave; la hausse pour ce roadster car&eacute;n&eacute; avec une nouvelle selle redessin&eacute;e et plus confortable.</p>
+<p>Au niveau de l'instrumentation, la Ninja 650 h&eacute;rite d&eacute;sormais d'un compteur TFT couleur multifonctions de 10,9 cm pourvu d'un indicateur de rapport engag&eacute;, d'un t&eacute;moin de changement de vitesse, d'une jauge de carburant, d'un indicateur de conduite &eacute;conomique ou encore d'une connexion Bluetooth permettant l'appairage &agrave; l'application Rideology offrant acc&egrave;s &agrave; d'autres informations comme les trajets parcourus ou les infos de maintenance. Par ailleurs, il est possible de choisir entre deux modes d'affichages tandis que la luminosit&eacute; varie en fonction de l'&eacute;clairage.</p>
+<figure><a href="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-route-vert_hd.jpg" class="gallery" data-group="gallery" title="Kawasaki Ninja 650 2020"><img class="border" title="Kawasaki Ninja 650 2020" src="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-route-vert.jpg" alt="Kawasaki Ninja 650 2020" /></a><figcaption>Kawasaki Ninja 650 2020</figcaption></figure>
+<p>Dernier changement pour le mill&eacute;sime 2020, ce sont d&eacute;sormais des pneus Dunlop Sportmax Roadsport 2 (pneu monogomme mais haut de gamme en monogomme, y compris &agrave; l'arri&egrave;re, de premi&egrave;re monte fabriqu&eacute; au Japon, successeur du D214, destin&eacute; aux roadsters et sportives et disponible au catalogue) qui &eacute;quipent la moto.</p>
+<p><a href="/technique/motos/kawasaki-ninja-650.php">Le bicylindre en ligne de 649 cm3</a> d&eacute;livrant 68 ch et 65,7 Nm ainsi que toute la partie cycle restent quant &agrave; eux <a href="/technique/fiches/tech-kawasaki-ninja-650.php">identiques au mod&egrave;le actuel</a>.</p>
+<figure><a href="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-route-blanc_hd.jpg" class="gallery" data-group="gallery" title="Kawasaki Ninja 650 2020"><img class="border" title="Kawasaki Ninja 650 2020" src="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-route-blanc.jpg" alt="Kawasaki Ninja 650 2020" /></a><figcaption>Kawasaki Ninja 650 2020</figcaption></figure>
+<p>La Ninja 650 sera propos&eacute;e en version KRT, noire et blanche &agrave; partir du mois de f&eacute;vrier 2020 avec un prix en sensible hausse par rapport aux 7.499 euros actuellement r&eacute;clam&eacute;s pour le mod&egrave;le 2019.</p>
+<p>La Ninja 650 sera ainsi affich&eacute;e &agrave; 7.799 euros et 7949 euros en version SE.</p>
+<figure><a href="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-noir_hd.jpg" class="gallery" data-group="gallery" title="Kawasaki Ninja 650 noire"><img class="border" title="Kawasaki Ninja 650 noire" src="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-noir.jpg" alt="Kawasaki Ninja 650 noire" /></a><figcaption>Kawasaki Ninja 650 noire</figcaption></figure>
+<figure><a href="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-blanche_hd.jpg" class="gallery" data-group="gallery" title="Kawasaki Ninja 650 blanche"><img class="border" title="Kawasaki Ninja 650 blanche" src="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-blanche.jpg" alt="Kawasaki Ninja 650 blanche" /></a><figcaption>Kawasaki Ninja 650 blanche</figcaption></figure>
+<figure><a href="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-profil-droit_hd.jpg" class="gallery" data-group="gallery" title="Kawasaki Ninja 650"><img class="border" title="Kawasaki Ninja 650" src="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-profil-droit.jpg" alt="Kawasaki Ninja 650" /></a><figcaption>Kawasaki Ninja 650</figcaption></figure>
+<figure><a href="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-profil-gauche_hd.jpg" class="gallery" data-group="gallery" title="Kawasaki Ninja 650"><img class="border" title="Kawasaki Ninja 650" src="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-profil-gauche.jpg" alt="Kawasaki Ninja 650" /></a><figcaption>Kawasaki Ninja 650</figcaption></figure>
+<figure><a href="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-ar_hd.jpg" class="gallery" data-group="gallery" title="Kawasaki Ninja 650"><img class="border" title="Kawasaki Ninja 650" src="/img/actu/2019/nouveaute/moto-sportive-kawasaki-ninja-650-ar.jpg" alt="Kawasaki Ninja 650" /></a><figcaption>Kawasaki Ninja 650</figcaption></figure>
+<h4>Disponibilit&eacute;s / Prix</h4>
+<ul>
+<li>Coloris : Vert Lime Green / Noir Ebony, Noir Metallic Spark, Blanc Stardust / Noir Metallic Flat Spark</li>
+<li>Disponibilit&eacute; : f&eacute;vrier 2020</li>
+<li>Prix : environ 7.799 euros</li>
+</ul>
+<h4>Plus d'infos sur Kawasaki</h4>
+<ul>
+<li>Site : <a href="/guides/url.php?id=7794" target="_blank" rel="nofollow">www.kawasaki.fr</a></li>
+<li><a href="/actualites/nouveaute.php">Toutes les actualit&eacute;s nouveaut&eacute;s</a></li>
+<li><a href="/essais/essais-kawasaki.php">Tous les essais Kawasaki</a></li>
+</ul>
+</article><aside><p>Ces articles peuvent vous intéresser</p><ul>
+			<li><a href="/essais/motos/kawasaki-ninja-650.php"><img src="/img/actu/2017/vignettes/kawasaki-ninja-650.jpg" alt="essais">Essai Kawasaki Ninja 650<span>essais</span></a></li>
+			<li><a href="/essais/motos/kawasaki-er6f-2012.php"><img src="/img/actu/2012/vignettes/kawasaki-er6f-2012.jpg" alt="essais">Kawasaki ER-6f<span>essais</span></a></li>
+			<li><a href="/essais/motos/kawasaki-zx-6r-performance.php"><img src="/img/actu/2019/vignettes/kawasaki-zx-6r-performance.jpg" alt="essais">Essai Kawasaki ZX-6R<span>essais</span></a></li>
+			<li><a href="/essais/motos/kawasaki-ninja-400.php"><img src="/img/actu/2018/vignettes/kawasaki-ninja-400.jpg" alt="essais">Essai Kawasaki Ninja 400<span>essais</span></a></li>
+			<li><a href="/technique/motos/kawasaki-ninja-650.php"><img src="/img/actu/2017/vignettes/kawasaki-ninja-650.jpg" alt="technique">Technique Kawasaki Ninja 650<span>technique</span></a></li>
+			<li><a href="/technique/fiches/tech-kawasaki-ninja-650.php"><img src="/img/actu/2016/vignettes/tech-kawasaki-ninja-650.jpg" alt="technique">Fiche technique Kawasaki Ninja 650<span>technique</span></a></li></ul></aside><script src="/js/rating.js"></script>
+		<div id="votes"><div class="ratingblock"><div id="unit_long"><p class="txt">Notez cet article : Note actuelle: <strong> 5</strong>/5 (2 votes)</p>  <ul id="unit_ul" class="star-rating" style="width:125px;">     <li class="current-rating" style="width:125px;">Currently 5.00/5</li>  </ul>    </div></div></div><div id="comments">
+<h3>Commentaires</h3>
+<div class="comment-data">
+<a href="/forum/profile.php?9,12671"><img src="/img/motardscope/vignettes/12/ph_12671.jpg" class="avatar" alt="KPOK" title="KPOK" /></a>
+<div class="comment-content"><p> Une ER-6F, quoi.  </p>
+<span class="comment-date">08-10-2019 09:34&nbsp; <span class="alert"></span></span><br />
+</div>
+</div>
+<div class="comment-data">
+<a href="/forum/profile.php?9,197714"><img src="/img/motardscope/vignettes/197/ph_197714.jpg" class="avatar" alt="Monsieur_C" title="Monsieur_C" /></a>
+<div class="comment-content"><p> Dommage de ne pas avoir de photo du compteur, j'aime beaucoup le précédent je ne sais pas si l'écran apporte grand chose, il y avait déjà toutes les infos... La bulle n'a plus l'air réglable, ni même interchangeable ? Ceci dit ça évite les insectes qui s'écrasent dessous et simplifie le nettoyage ! Le pot a l'air d'avoir été modifié aussi, il semble maintenant en 2 parties, sûrement Euro5.<br />
+<br />
+Je possède la 2018, je suis déçu qu'il ne l'améliorent pas là où il faudrait : des suspensions un peu meilleures et quelques chevaux de plus (10 ce serait parfait ! elle les mérite).<br />
+<br />
+Les feux à LED je ne comprends pas pourquoi ce n'était pas déjà le cas (moto sortie en 2017 quand même !), la selle était déjà confortable donc je suis curieux du nouveau rendu :) </p>
+<span class="comment-date">08-10-2019 10:27&nbsp; <span class="alert"></span></span><br />
+</div>
+</div>
+<a name="commentsend">&nbsp;</a><textarea name='comment' style='width:515px;height: 50px;' cols='50' rows='3'></textarea>
+<p><strong><div id="post-subscribe"><a href="/forum/login.php" rel="nofollow">Connectez-vous pour réagir</a><a href="/forum/register.php" rel="nofollow">Ou inscrivez-vous</a></div></strong></p>
+</div>
+<!-- begin Google -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Texte responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2117655243763129"
+     data-ad-slot="2362096423"
+     data-ad-format="link"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!-- end google -->
+</div>
+<div id="sidebar">
+<div class="news-side">
+ <h4>Articles les + comment&eacute;s</h4> 
+  <ul>
+	<li><a href="/actualites/2020/arch-motorcycle-krgt-1-euro-4.php" title="Arch Motorcycle obtient la certification Euro 4 pour la dernière évolution de son cruiser haut de gamme KRGT-1"><b>Arch fait homologuer la KRGT-1 en Europe</b><span>6 </span></a></li><li><a href="/actualites/2020/concours-design-preparation-moto-yamaha-xsr700.php" title="Yamaha lance un concours de design autour de la XSR 700, le gagnant verra sa préparation réalisée par Bad Winners pour le Wheels and Waves">Prépa moto : un concours de design pour tous<span>6 </span></a></li><li><a href="/actualites/2020/roadster-triumph-street-triple-r.php" title="Nouveau look, nouveaux équipements et baisse de prix pour le roadster Triumph Street Triple R qui passe sous la barre des 10.000 €">Triumph Street Triple R<span>8 </span></a></li><li><a href="/actualites/2020/securite-routiere-depart-disr-emmanuel-barbe.php" title="A la tête de la délégation à la Sécurité Routière, Emmanuel Barbe quitte le navire pour devenir préfet de police des Bouches-du-Rhône">La Sécurité Routière perd son délégué<span>22 </span></a></li> </ul>
+</div>
+<div id="pub-300">
+<a href='http://www.lerepairedesmotards.com/annonceurs/www/delivery/click.php?oaparams=1&amp;bannerid=2054&amp;zoneid=2&amp;cb=5de7620153&amp;oadest=https%3A%2F%2Fbit.ly%2F2RxEpzM' target='_blank' rel='nofollow'><img src='/img/pub/bmw-bymycar-inauguration-600.gif' width='300' height='600' alt='' title='' border='0' /></a><div id='beacon_5de7620153' style='position: absolute; left: 0px; top: 0px; visibility: hidden;'><img src='http://www.lerepairedesmotards.com/annonceurs/www/delivery/lg.php?bannerid=2054&amp;campaignid=264&amp;zoneid=2&amp;loc=http%3A%2F%2Fwww.lerepairedesmotards.com%2Factualites%2F2019%2Fmoto-sportive-kawasaki-ninja-650.php&amp;referer=https%3A%2F%2Fwww.google.com%2F&amp;cb=5de7620153' width='0' height='0' alt='' style='width: 0px; height: 0px;' /></div></div>
+<div id="pub-txt">
+<h5>Publicit&eacute;s en ligne</h5>
+	<ul><li><a href="/annonceurs/www/delivery/click.php?bannerid=2043" target="_blank" rel="nofollow">Offres givrées Suzuki : jusqu'à 2.100 euros d'avantages clients</a></li><li><a href="/annonceurs/www/delivery/click.php?bannerid=2059" target="_blank" rel="nofollow">La 1290 Duke à partir de 263 euros par mois</a></li><li><a href="/annonceurs/www/delivery/click.php?bannerid=2056" target="_blank" rel="nofollow">Soirée inaugurale BMW ByMyCar - 27 février</a></li><li><a href="/annonceurs/www/delivery/click.php?bannerid=2021" target="_blank" rel="nofollow">Voge Street 500</a></li><li><a href="/annonceurs/www/delivery/click.php?bannerid=1941" target="_blank" rel="nofollow">Artonvel - sacoches</a></li><li><a href="/annonceurs/www/delivery/click.php?bannerid=2029" target="_blank" rel="nofollow">Petits prix sur Motoblouz</a></li><li><a href="/annonceurs/www/delivery/click.php?bannerid=1991" target="_blank" rel="nofollow">Nolan : sécurité + Italie</a></li><li><a href="/annonceurs/www/delivery/click.php?bannerid=2024" target="_blank" rel="nofollow">La Perse à moto avec T3</a></li><li><a href="/annonceurs/www/delivery/click.php?bannerid=2037" target="_blank" rel="nofollow">Salon du 2 roues Lyon - 13-16 février</a></li><li><a href="/annonceurs/www/delivery/click.php?bannerid=1966" target="_blank" rel="nofollow">GP France moto : 15-16-17 mai 2020</a></li></ul><h5>Assurance</h5>
+	<ul>
+<li><a href="/annonceurs/www/delivery/click.php?bannerid=857" target="_blank" rel="nofollow">Calculez votre tarif d'assurance avec AMV</a></li>  
+</ul></div>
+
+<div class="news-side line-top">
+<h4>EICMA & les nouveautés motos 2020</h4>
+<ul id="encarts">
+ <a href="/actualites/nouveaute.php"><img src="/img/home/2019/salon-eicma-nouveautes-2020.jpg" alt="Nouveautés motos 2020"></a>
+</ul>
+ <h4>Derniers articles</h4>
+  <ul>
+	<li><a href="/actualites/2020/salon-2-roues-lyon-simulateur-moto-amv.php" title="AMV sensibilise les motards au Salon du 2 Roues de Lyon et leur propose un bilan personnalisé à travers deux simulateurs motos"><b>De la prévention sur simulateur moto à Lyon</b> <span>0 </span></a></li><li><a href="/actualites/2020/harley-davidson-road-glide-special-eagle-eye.php" title="Harley-Davidson met de la couleur dans sa gamme Touring avec l'édition spéciale Eagle Eye de la Road Glide Special">De la couleur pour le touring Harley <span>0 </span></a></li><li><a href="/actualites/2020/meurtre-place-file-attente-station-service.php" title="Une banale histoire de dépassement dans la file d'attente d'une station-service tourne au drame en France">Un automobiliste meurt poignardé dans une station-service <span>4 </span></a></li><li><a href="/actualites/2020/arch-motorcycle-krgt-1-euro-4.php" title="Arch Motorcycle obtient la certification Euro 4 pour la dernière évolution de son cruiser haut de gamme KRGT-1">Arch fait homologuer la KRGT-1 en Europe <span>6 </span></a></li><li><a href="/actualites/2020/moto-electrique-hero-electric-ae-47.php" title="Hero Electric vient de dévoiler l'AE-47, une moto électrique proche des performances d'une 125 et dont le prix sera inférieur à 1.900 euros">Une 125 électrique à moins de 1.900 euros <span>1 </span></a></li><li><a href="/actualites/2020/prototype-moteur-electrique-yamaha.php" title="Yamaha dévoile un moteur électrique de 270 ch destiné à être utilisé par d'autres constructeurs">Un moteur électrique de 270 ch pour Yamaha <span>3 </span></a></li><li><a href="/actualites/2020/concours-design-preparation-moto-yamaha-xsr700.php" title="Yamaha lance un concours de design autour de la XSR 700, le gagnant verra sa préparation réalisée par Bad Winners pour le Wheels and Waves">Prépa moto : un concours de design pour tous <span>6 </span></a></li> </ul>
+</div>
+<div id="social">
+<p>Suivez nous </p>
+<ul>
+ <li><img src="/img/icones/newsletter.png" alt="Newsletter"></li>
+ <li><a href="https://www.facebook.com/LeRepairedesMotards" target="_blank" rel="nofollow"><img src="/img/icones/facebook.png" alt="Facebook"></a></li>
+ <li><a href="https://twitter.com/lerepaire" target="_blank" rel="nofollow"><img src="/img/icones/twitter.png" alt="Twitter"></a></li>
+ <li><a href="/rss/actu.xml"><img src="/img/icones/rss.png" alt="Fil RSS"></a></li>
+ <li><a href="https://www.pinterest.com/Lerepaire/"><img src="/img/icones/pinterest.png" alt="Pinterest"></a></li>
+ <!--<li><a href="https://www.instagram.com/lerepairedesmotards/" target="_blank" rel="nofollow"><img src="/img/icones/instagram.png" alt="Instagram"></a></li>-->
+</ul>
+<form method="post" onsubmit="return Valid(this)" name="abonnement" action="/form.php">
+        <input type="hidden" name="myfile_" value="abonnement">
+        <input type="hidden" name="tymail_" value="merci_abonnement">
+        <input type="hidden" name="abonnement" value="1" checked="checked" />
+        <input type="hidden" name="typage_" value="/infos/form_ok_abonnement.php">
+        <input name="mail" type="email" onfocus="if (this.value=='S\'inscrire à la Newsletter') this.value=''" onblur="if (this.value=='') this.value='S\'inscrire à la Newsletter'" id="mail" value="S'inscrire à la Newsletter" placeholder="S'inscrire à la Newsletter" required>
+        <button type="submit" class="btn-ok" name="ok_button" role="button" aria-disabled="false"></button>
+</form> 
+</div>
+
+<div id="debats">
+ <a href="/forum/index.php" class="whitebigpadd view-more bkg-red">Participez !</a>
+ <h4>Les d&eacute;bats</h4>
+  <ul>
+	<li><a href="/forum/read.php?3,3206283">Quel custom A2 pour grand gabarit ? <span>16 </span></a></li><li><a href="/forum/read.php?3,3206225">Comment bien enfiler sa cagoule moto ? <span>15 </span></a></li><li><a href="/forum/read.php?3,3206137">CB 500, ER-5 ou autre en A2 ? <span>13 </span></a></li><li><a href="/forum/read.php?3,3206067">Champion du monde de moto cross français qui a fait pole en GP ? <span>43 </span></a></li><li><a href="/forum/read.php?3,3205982">Sport-GT après A2 <span>14 </span></a></li><li><a href="/forum/read.php?3,3205968">Débutant 1ere moto : KTM 690 Duke <span>29 </span></a></li><li><a href="/forum/read.php?3,3205809">Avis occasion : Kawasaki ER6N 2009 64000km <span>15 </span></a></li> </ul> 
+</div>
+<ul id="encarts">
+<li><a href="/chroniques/les-ptits-nerveux-au-feu-rouge.php"><img src="/img/home/2020/clefs-kronik-p-tits-nerveux-feu-rougen.jpg" alt="Kronik : Les p'tits nerveux au feu rouge " /><div><h5>Kronik : Les p'tits nerveux au feu rouge </h5><p>Ca me fait marrer, les p'tits nerveux au feu rouge qui font voum-voum-voum. D'autres font du tam--tam sur leur réservoir. Et moi ...</p></div></a></li><li><a href="/tv/balade-moto-hivernale-winter-ride-bmw.php"><img src="/img/home/2020/clefs-balade-moto-winter-ride-bmw-kesako.jpg" alt="Balade moto Winter Ride BMW : kesako ?" /><div><h5>Balade moto Winter Ride BMW : kesako ?</h5><p>On rejoint d'autres motards pour essayer les touring BMW au cours d'une virée hivernale par les petites routes </p></div></a></li><li><a href="/actualites/2020/sportive-ducati-superleggera-v4.php"><img src="/img/home/2020/clefs-ducati-superleggera-v4-234-ch-152-2-kg.jpg" alt="Ducati Superleggera V4 : 234 ch et 152,2 kg" /><div><h5>Ducati Superleggera V4 : 234 ch et 152,2 kg</h5><p>234 ch pour 152,2 kg : Ducati dévoile la Superleggera V4, homologuée pour la route et affichant jusqu'à 1,54 ch / kg en version ...</p></div></a></li> </ul>
+<!-- -->
+<!-- -->
+</div><footer>
+ 
+<nav>
+ <ul>
+    <li><a href="/index.php">Accueil</a></li>
+    <li><a href="/actualites/index.php">Actualités</a></li> 
+    <li><a href="/essais/index.php">Essais</a></li>
+    <li><a href="/dossiers/index.php">Dossiers</a></li>      
+    <li><a href="/conseils/index.php">Conseils</a></li>          
+    <li><a href="/guides/index.php">Guides</a></li>
+    <li><a href="/voyages/index.php">Voyages</a></li>    
+	<li><a href="/forum/index.php">Forums</a></li>
+	<li><a href="/infos/emploi.php">Emploi</a></li>    
+	<li><a href="/infos/contact.php">Contact</a></li>
+ </ul>
+</nav>
+<div id="cookies">
+ <p>En utilisant ce site, vous acceptez l'utilisation des cookies. <a href="/infos/cookies.php">Plus d'infos.</a></p>
+ <p><span><a href="javascript:setcookieok();">ok</a></span></p>
+</div>
+</footer>
+<a href="#" id="scrollup">Top</a>
+</div>
+<!-- curlmark -->
+<!-- img -->
+<!-- img2 -->
+<script>
+<!--
+var BkgClickUrl = "/";
+-->
+</script>
+<div id="copyright">
+  <p>Copyright &copy; <span class="notranslate">Le Repaire des Motards</span> - 1999-2020. 1er site d'information et de services motos.<br />
+  Tous droits r&eacute;serv&eacute;s. <a href="/infos/mentions.php">Mentions l&eacute;gales</a>.</p>
+<div id="xiti-logo">
+<a href="//www.xiti.com/xiti.asp?s=29032" rel="nofollow" title="WebAnalytics">
+<script>
+<!--
+Xt_param = 's=29032&p=';
+try { Xt_r = top.document.referrer;}
+catch(e) { Xt_r = document.referrer; }
+Xt_h = new Date();
+Xt_i = '<img width="80" height="15" ';
+Xt_i += 'src="//logv5.xiti.com/bcg.xiti?'+Xt_param;
+Xt_i += '&hl='+Xt_h.getHours()+'x'+Xt_h.getMinutes()+'x'+Xt_h.getSeconds();
+if(parseFloat(navigator.appVersion)>=4)
+{ Xt_s=screen;Xt_i+='&r='+Xt_s.width+'x'+Xt_s.height+'x'+Xt_s.pixelDepth+'x'+Xt_s.colorDepth;}
+document.write(Xt_i+'&ref='+Xt_r.replace(/[<>"]/g, '').replace(/&/g, '$')+'">');
+amsg="<div class='info'>Vous aimez ce site ?<br>Nous faisons des efforts pour limiter la pub au strict minimum : 2 emplacements par page seulement.<br>Aidez-nous en autorisant la publicité.<br>Ceci nous permettra de continuer à proposer du contenu de qualité, de développer des reportages exclusifs et la vidéo.<br>Merci.</div>";
+-->
+</script>
+<noscript>
+<div id="xiti-logo-noscript">
+<img width="80" height="15" src="//logv5.xiti.com/bcg.xiti?s=29032&amp;p=&amp;" alt="WebAnalytics" />
+</div>
+</noscript>
+</a>
+</div>
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1173137-1', 'auto');
+  ga('send', 'pageview'); 
+</script>
+<script src="/js/ads.js"></script>
+<script>
+if(!document.getElementById('pb')){document.getElementById("pub").innerHTML = amsg;pb='yes';} else {pb='no';}
+if(typeof ga !=='undefined'){
+  ga('send','event','Adblock',pb,{'nonInteraction':1});
+} else if(typeof _gaq !=='undefined'){
+  _gaq.push(['_trackEvent','Adblock',pb,undefined,undefined,true]);
+}
+</script>
+</div> 	</body>
+</html>
