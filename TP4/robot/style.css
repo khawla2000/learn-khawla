@@ -1,0 +1,69 @@
+div{
+    border: 3px solid black;
+    padding: 2px;
+    margin: 2px;
+}
+#robot{
+    width: 300px;
+    height: 500px;
+    position: relative;
+    left: 10%;
+    border-radius: 10%;
+}
+#head{
+    width: 60%;
+    height: 30%;
+    position: relative;
+    left: 20%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+     border-top-right-radius: 50%;
+     border-top-left-radius: 50%;
+    
+}
+#le,#re{
+    width: 20%;
+    height: 20%;
+    border-radius: 100%;
+    background-color:white;
+}
+#body{
+    width: 100%;
+    height: 60%;
+    display: flex;
+    justify-content: flex-start;
+}
+#main{
+    width: 80%;
+    height: 100%;
+    border-radius: 20%;
+}
+#la,#ra{
+    width: 20%;
+    height: 50%;
+    border-radius: 20%;
+}
+#legs{
+    width: 60%;
+    height: 60%;
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    left: 20%;
+    
+}
+#ll,#rl{
+    width: 20%;
+    height: 40%;
+    border-radius: 20%;
+}
+#head,#la,#ra,#ll,#rl,#main{
+    background-color:tomato;
+}
+#ll:hover{
+    transition: rotate(20deg);
+}
+
+
+
