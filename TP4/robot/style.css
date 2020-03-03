@@ -1,7 +1,8 @@
 div{
-    border: 3px solid black;
+    /*border: 3px solid black;*/
     padding: 2px;
     margin: 2px;
+
 }
 #robot{
     width: 300px;
@@ -64,6 +65,12 @@ div{
 #ll:hover{
     transition: rotate(20deg);
 }
+#la:hover,#ra:hover,#ll:hover,#rl:hover,#head:hover{
+    transform:rotate(80deg);
+}
+#robot:hover{
+    transform: scale(0.5, 0.5); 
+    
 
-
+}
 
