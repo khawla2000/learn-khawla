@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    margin-top: 240px;
+    position : relative;
+    left: 400px;
+}
+#montre{
+   
+    font-size: 100px;
+    font-weight: 300;
+}
+
+div{
+    border: 5px solid black;
+    width: 500px;
+    
+}
