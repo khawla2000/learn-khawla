@@ -21,7 +21,6 @@ div{
     height: 450px;
     margin:20px;
     overflow: auto;
-    background-color: #00FFFF;
 }
 #content{
     border-style: solid;
