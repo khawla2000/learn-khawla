@@ -9,3 +9,11 @@ div{
     border:blue;
     padding:10px;
 }
+#grand div{
+    display:flex;
+    flex-direction: row;
+    position: sticky;
+    top:0px;
+    background-color: blue;
+    height:30px;
+}
